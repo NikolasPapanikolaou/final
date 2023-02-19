@@ -1,0 +1,11 @@
+C:\Users\SP\source\repos\Asignment1(Ναυμαχία)\Asignment1(Ναυμαχία)\bin\Debug\Asignment1(Ναυμαχία).exe.config
+C:\Users\SP\source\repos\Asignment1(Ναυμαχία)\Asignment1(Ναυμαχία)\bin\Debug\Asignment1(Ναυμαχία).exe
+C:\Users\SP\source\repos\Asignment1(Ναυμαχία)\Asignment1(Ναυμαχία)\bin\Debug\Asignment1(Ναυμαχία).pdb
+C:\Users\SP\source\repos\Asignment1(Ναυμαχία)\Asignment1(Ναυμαχία)\obj\Debug\Asignment1(Ναυμαχία).csproj.AssemblyReference.cache
+C:\Users\SP\source\repos\Asignment1(Ναυμαχία)\Asignment1(Ναυμαχία)\obj\Debug\Asignment1(Ναυμαχία).csproj.SuggestedBindingRedirects.cache
+C:\Users\SP\source\repos\Asignment1(Ναυμαχία)\Asignment1(Ναυμαχία)\obj\Debug\Asignment1_Ναυμαχία_.Form1.resources
+C:\Users\SP\source\repos\Asignment1(Ναυμαχία)\Asignment1(Ναυμαχία)\obj\Debug\Asignment1_Ναυμαχία_.Properties.Resources.resources
+C:\Users\SP\source\repos\Asignment1(Ναυμαχία)\Asignment1(Ναυμαχία)\obj\Debug\Asignment1(Ναυμαχία).csproj.GenerateResource.cache
+C:\Users\SP\source\repos\Asignment1(Ναυμαχία)\Asignment1(Ναυμαχία)\obj\Debug\Asignment1(Ναυμαχία).csproj.CoreCompileInputs.cache
+C:\Users\SP\source\repos\Asignment1(Ναυμαχία)\Asignment1(Ναυμαχία)\obj\Debug\Asignment1(Ναυμαχία).exe
+C:\Users\SP\source\repos\Asignment1(Ναυμαχία)\Asignment1(Ναυμαχία)\obj\Debug\Asignment1(Ναυμαχία).pdb
